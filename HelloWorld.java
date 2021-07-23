@@ -7,3 +7,4 @@ class HelloWorld {
 }
 
 
+ssh-keygen -t ed25519 -C "aq2072417@gmail.com"
